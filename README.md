@@ -10,7 +10,7 @@ Go Module            : go.mod
 --------------------------------
 - Install Go Language on your PC from Go.dev
 - Check if Go language is installed on your PC by the command "go version" on the command prompt or Terminal
-- After installation, Open the terminal and set the directory to run the program at your convenience
+- After installation, Open the terminal and clone this repository to run the program "main.go"
 - To run the program, initialize a go module on the terminal by the following command "go mod init <path/directory>
 - After go mod is initialized, execute the following command to run the program, 
                         * go run main.go
